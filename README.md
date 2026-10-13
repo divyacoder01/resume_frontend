@@ -2,7 +2,7 @@
 
 Next.js app: upload a resume, paste a job description, get a tailored resume and download it as PDF/DOCX.
 
-Backend repo: https://github.com/divyacoder01/resume_backend (full documentation is in its README).
+Full project (frontend + backend) and documentation: https://github.com/divyacoder01/resume_backendd
 
 ## Run locally
 ```
